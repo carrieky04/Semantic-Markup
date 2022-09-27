@@ -2,7 +2,7 @@
 
 ## Description:
 
-Horieson has a simply designed and intuitive website, however, it is not built so that people with disabilites can navigate within it. My task was to make this website so that it meets accessibility standards, without changing the way website is designed. By learning semantic HTML, I was able to change the code and make sure it meets accessibility standards. At the same time, the code looks cleaner and everyone can make sense of it. 
+Horieson has a simple and intuitive website, however, it is not built so that people with disabilites can navigate within it. My task was to make this website so that it meets accessibility standards, without changing the way the website is designed. The stylesheet was also decluttered and cleaned. By learning semantic HTML, I was able to change the code and make sure it meets accessibility standards. At the same time, the code looks cleaner and everyone can make sense of it. 
 
 
 
@@ -14,9 +14,15 @@ No installation is required.
 
 ## Usage
 
-Click on the index.html in GitHub to view the changed code.
+Insert URL here
 
 To test the accessibility of the website: Copy and paste the URL into any search engine and activate voiceover on your computer.
+
+
+![screenshot] (Semantic-Markup/Develop/assets/images/Horieson.png)
+
+
+
 
 
 
