@@ -19,11 +19,7 @@ Insert URL here
 To test the accessibility of the website: Copy and paste the URL into any search engine and activate voiceover on your computer.
 
 
-![screenshot] (Semantic-Markup/Develop/assets/images/Horieson.png)
-
-
-
-
+![screenshot](/images/Horieson.png)
 
 
 ## Credits
