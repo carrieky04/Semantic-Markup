@@ -14,12 +14,12 @@ No installation is required.
 
 ## Usage
 
-Insert URL here
+Deployed at : https://carrieky04.github.io/Semantic-Markup/
 
 To test the accessibility of the website: Copy and paste the URL into any search engine and activate voiceover on your computer.
 
 
-![screenshot](https://github.com/carrieky04/Semantic-Markup/blob/main/Develop/assets/images/Horiseon.png?raw=true)
+![screenshot](https://github.com/carrieky04/Semantic-Markup/blob/main/assets/images/Horiseon.png?raw=true)
 
 
 ## Credits
