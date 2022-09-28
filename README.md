@@ -19,7 +19,7 @@ Insert URL here
 To test the accessibility of the website: Copy and paste the URL into any search engine and activate voiceover on your computer.
 
 
-![screenshot](/images/Horieson.png)
+![screenshot](https://github.com/carrieky04/Semantic-Markup/blob/main/Develop/assets/images/Horiseon.png?raw=true)
 
 
 ## Credits
